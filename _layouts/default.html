@@ -19,12 +19,12 @@
 
   <body>
     <header>
-      <div class="inner" style="overflow: hidden">
+      <div class="inner" style="display: flex; flex-direction: row">
         <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-       <img src="{{'/assets/marugame8.png' | relative_url }}" alt="Marugame Castle" style="float: right">
+       <img src="{{'/assets/marugame8.png' | relative_url }}" alt="Marugame Castle">
       </div>
     </header>
 
