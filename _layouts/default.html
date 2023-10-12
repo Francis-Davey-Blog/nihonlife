@@ -11,9 +11,8 @@
     <![endif]-->
 
 
-{% seo %}
-
-
+    {% seo %}
+    
     {% include head-custom.html %}
   </head>
 
@@ -33,7 +32,7 @@
         <section id="main-content">
           {{ content }}
           {% for post in site.posts %}
-              <h2><a href="{{ post.permalink }}">{{ post.title }}</a> {{ page.date | date: "%e, %B, %Y" }}</h2>
+              <h2><a href="{{ post.permalink }}">{{ post.title }}</a> {{ post.date | date: "%e %B %Y" }}</h2>
               <p>{{ post.content }}</p>
           {% endfor %}
         </section>
