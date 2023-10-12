@@ -33,20 +33,17 @@
         <section id="main-content">
           {{ content }}
           {% for post in site.posts %}
-              <h2><a href="{{ post.permalink }}">{{ post.title }}</a></h2>
+              <h2><a href="{{ post.permalink }}">{{ post.title }}</a> {{ page.date | date: "%e, %B, %Y" }}</h2>
               <p>{{ post.content }}</p>
           {% endfor %}
         </section>
 
         <aside id="sidebar">
-          <ul>
-            {% for post in site.posts %}
-              <li>
-                <h2><a href="{{ post.url | relative_url}}">{{ post.title }}</a></h2>
-                {{ post.excerpt }}
-              </li>
-            {% endfor %}
-          </ul>
+          {% for post in site.posts %}
+              <h2><a href="{{ post.url | relative_url}}">{{ post.title }}</a></h2>
+              {{ post.excerpt }}
+          {% endfor %}
+
 
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
