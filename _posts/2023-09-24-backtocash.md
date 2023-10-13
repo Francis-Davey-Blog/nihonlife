@@ -2,7 +2,7 @@
 Title: Back to cash
 date: 24 September 2023
 layout: post
-published: true
+published: false
 ---
 My first major hurdle on arriving in Japan - after negotiating my way past many barriers et up to prevent the entrance of coronavirus - was finding a way for my employer to pay me. In other words, finding a suitable Japanese bank account into which my monthly salary could be paid. They had kindly provided me with a link to the website of a bank that allowed a foreigner, with no history in Japan, to open an account online。
 
