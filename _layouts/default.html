@@ -44,9 +44,9 @@
         <aside id="sidebar">
           <h2>Latest posts</h2>
           {% for post in site.posts limit:12 %}
-              <h3 style="margin-top:0px"><a href="{{ post.url | relative_url}}">{{ post.title }}</a></h3>
+              <h3><a href="{{ post.url | relative_url}}">{{ post.title }}</a></h3>
               {% if post.subtitle %}
-                <h4 class=post-subtitle>{{post.subtitle}}</h4>
+                <h4  style="margin-before:0px">{{post.subtitle}}</h4>
               {% endif %}
               {{ post.excerpt }}
           {% endfor %}
