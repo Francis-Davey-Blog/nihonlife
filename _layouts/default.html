@@ -31,15 +31,16 @@
       <div class="inner clearfix">
         <section id="main-content">
           {{ content }}
-          {% for post in site.posts %}
-              <h2><a href="{{ post.permalink }}">{{ post.title }}</a> {{ post.date | date: "%e %B %Y" }}</h2>
-              <p>{{ post.content }}</p>
-          {% endfor %}
+         
         </section>
 
         <aside id="sidebar">
-          {% for post in site.posts %}
-              <h2><a href="{{ post.url | relative_url}}">{{ post.title }}</a></h2>
+          <h2>Latest posts</h2>
+          {% for post in site.posts limit:12 %}
+              <h3><a href="{{ post.url | relative_url}}">{{ post.title }}</a></h3>
+              {% if post.subtitle %}
+                <h4  style="margin-before:0px">{{post.subtitle}}</h4>
+              {% endif %}
               {{ post.excerpt }}
           {% endfor %}
 
