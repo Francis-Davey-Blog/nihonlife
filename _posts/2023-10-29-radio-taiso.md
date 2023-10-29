@@ -23,3 +23,12 @@ The lyrics are
 ラジオの声に　健(すこ)やかな胸を  
 この香る風に　開けよ  
 それ　一　二　三  
+
+Which Google Translate suggests as meaning:  
+A new morning has come, a morning of hope  
+Open your heart with joy and let the sky rise  
+A healthy heart to the voice on the radio  
+Open to this fragrant wind  
+That one two three  
+
+There then follows a series of exercises, each repeated to the count of eight. My knowledge of Japanese body parts and their orientations is not quite up to following the instructions, which is why it is usefult o have someone to copy. I am told that En is a little unusual in that we carry on and follow a second series of exercises after the first.
