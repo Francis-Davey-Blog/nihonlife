@@ -2,6 +2,7 @@
 layout: post
 title: Morning Exercise
 subtitle: Radio Taiso Daisuki
+draft: true
 ---
 Last night the village, or most of it, was up until the early hours of the morning. What we were up to is something I will leave for a later post, but it did make me wonder whit this morning, of all mornings, there might be a change to routine. 
 
