@@ -4,7 +4,7 @@ title: Morning Exercise
 subtitle: Radio Taiso Daisuki
 draft: true
 ---
-Things get going early in En. At 6:30am every morning since I have come here the village loudspeaker springs into life. It is time for Radio Taiso.  
+Things get going early in En. Every morning since I have come here, the village loudspeaker springs into life at 6.30am. It is time for Radio Taiso.  
 
 *Rajio taisou* (ラジオ体操) literally means "health radio" and is a series of simple physical exercises broadcast on NHK radio (the Japanese equivalent of the BBC). It actually dates back to 1928, but was suspended for a while by the occupying American forces after the war, apparently because it was felt to be a bit too military. But it came back in a renewed form in 1951 and has remained roughly the same ever since.
 
