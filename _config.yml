@@ -2,6 +2,7 @@ title: where the Sun rises
 subtitle: my new life in Japan
 description: stories from living in Japan
 author: Francis Davey
+show_drafts: true
 sass:
   sass_dir: _sass
 plugins:
