@@ -13,7 +13,7 @@ Radio Taiso is quite popular all over Japan. I had first encountered it when, du
 Having heard it, I wondered if people gathered somewhere to exercise to it. A few days later, I spotted the arms of someone appearing sporadically over a wall, indicating that they were exercising in one of our narrow streets. It was quite a few days later before I plucked up the court - and the energy - to go and find out what was going on.  Sure enough, every morning a small number of people gather outside the community centre and exercise together, though I suspect others do it in the privacy - and in Winter the warmth - of their own homes. The broadcast is certainly audible inside every house.
 
 <figure style="float:left; width:50%; max-width:400px; margin-right:30px;">
-  <img src="{{'/assets/en_community_centre.jpg' | relative_url }}" alt="En Community Centre" style="max-width:400px;height:auto;">
+  <img src="{{'/assets/en_community_centre.jpg' | relative_url }}" alt="En Community Centre" style="height:auto;">
   <figcaption>En Community Centre</figcaption>
 </figure>
 
