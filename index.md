@@ -6,7 +6,7 @@ For more than half a century, I rarely travelled beyond the shores of Great Brit
 
 ***
 {% for post in site.posts %}
-<h2 class="post-title"><a href="{{ post.permalink }}">{{ post.title }}</a> {{ post.date | date: "%e %B %Y" }}</h2>
+  <h2 class="post-title"><a href="{{ post.url | relative_url}}"</a> {{ post.date | date: "%e %B %Y" }}</h2>
 {% if post.subtitle %}
 <h3 class="post-subtitle">{{post.subtitle}}</h3>
 {% endif %}
