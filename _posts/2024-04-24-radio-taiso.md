@@ -2,7 +2,8 @@
 layout: post
 title: Morning Exercise
 subtitle: Radio Taiso Daisuki
-draft: true
+date: 2024-04-24
+published: true
 ---
 Things get going early in En. Every morning since I have come here, the village loudspeaker springs into life at 6.30am. It is time for Radio Taiso.  
 
