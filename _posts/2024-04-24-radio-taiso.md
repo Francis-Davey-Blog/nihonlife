@@ -4,6 +4,7 @@ title: Morning Exercise
 subtitle: Radio Taiso Daisuki
 date: 2024-04-24
 published: true
+image: /assets/radio_taiso_no_uta.png
 ---
 Things get going early in En. Every morning since I have come here, the village loudspeaker springs into life at 6.30am. It is time for Radio Taiso.  
 
