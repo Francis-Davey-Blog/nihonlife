@@ -10,5 +10,5 @@ For more than half a century, I rarely travelled beyond the shores of Great Brit
 {% if post.subtitle %}
 <h3 class="post-subtitle">{{post.subtitle}}</h3>
 {% endif %}
-<p>{{ post.content }}</p>
+  {{ post.excerpt }}
 {% endfor %}
