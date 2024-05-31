@@ -7,3 +7,4 @@ sass:
   sass_dir: _sass
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
