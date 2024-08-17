@@ -4,7 +4,7 @@ title: Obon
 subtitle: Old bon in Amami
 date: 2024-08-17
 published: true
-image: /assets/radio_taiso_no_uta.png
+image: /assets/2024-tanabata-naze-arcade.jpg
 ---
 <figure>
   <img src="{{'/assets/2024-tanabata-en-1024.jpg' | relative_url }}" alt="Tanabata decoration from bamboo pole">
@@ -23,6 +23,14 @@ Obon is an important festival in which one honours the spirits of one's ancestor
 </figure>
 There are many customs associated with Obon, but the one with the most immediate effect on me is that eople travel back to their family or ancestral graves. As a result, En started filling up with people, including grandchildren of residents, who I would see playing on the beach, swimming in the sea, or running around the streets. I imagine it is like my childhood experience of going to stay with my grandparents on [Seil](https://en.wikipedia.org/wiki/Seil) in Scotland. While to a young adult I suspect En might seem rather dull, to a small child it is probably exciting and full of mystery and possibilities.
 
-Why did I say "at least in Amami"? Well, that is because Obon is on the 15th day of the 7th month. In modern, logical, Eastern Japan that means the 15th of July or _Shichigatsu Bon_ ("seventh month Bon"). Traditionally the 7th month was the 7th month in the lunar, not solar, calendar which is usually nearer to August than July, so many places celebrate _Hachigatsu Bon_ ("eight month Bon"). But we, on Amami, celebrate _Kyuu Bon_ ("Old Bon"). On the fifteenth day of the seventh lunar month. 
+Why did I say "at least in Amami"? Well, that is because Obon is on the 15th day of the 7th month. In modern, logical, Eastern Japan that means the 15th of July or _Shichigatsu Bon_ ("seventh month Bon"). Traditionally the 7th month was the 7th month in the lunar, not solar, calendar which is usually nearer to August than July, so most places in Japan celebrate Obon as _Hachigatsu Bon_ ("eight month Bon") on 15th August. But we, on Amami, celebrate _Kyuu Bon_ ("Old Bon"). On the fifteenth day of the seventh lunar month. 
 
-Earlier in the year I spent quite a bit of time trying to work out when Obon would take place. There are various online lunar calendar calculators, but I am not sure I entirely believed them. But last week, it suddenly dawned on me that the town calendar, delivered annually to our home, is a lunar as well as solar calendar.
+This year, Obon lasts three days. This year in Amami from the 16th to the 18th of August. During that period many shops and other businesses are closed. I was also told that swimming was absolutely forbidden on the first day. Of course for most of Japan the "first day" was the 15th, so I was not quite sure what to do. My companion was also surprised that shops and businesses here seem to have been entirely happy to open on the 15th. Things are different here.
+
+<figure>
+  <img src="{{'/assets/2024-tatsugo-calendar-bon.jpg' | relative_url }}" alt="A grave in En decorated for Tanabata">
+  <figcaption>En grave with Tanabata decorations</figcaption>
+</figure>
+Earlier in the year I spent quite a bit of time trying to work out when Obon would take place. There are various online lunar calendar calculators, but I am not sure I entirely believed them. But last week, it suddenly dawned on me that the town calendar, delivered annually to our home, is a lunar as well as solar calendar. For example, tomorrow's entry shows, under a very large number 18 the legend 7月15日 meaning the 15th day of the 7th. month. 旧盆 is the kanji for _kyuubon_ and 送り (_okuri_ literally "sending off") marks the end of Obon. 
+
+I suppose I ought to have been paying more attention, but I find reading kanji to be very slow even if I know the characters. I often fail to pick up on these sorts of things. The town calendar is also full of lots of information. For instance the day of the 18th is also a high tide (大潮) and lucky in the morning (先負) and also きのえとら　（Wood Tiger, the 51st day of a 60 day cycle). Other days have more practical information, for example that I can put out non-burnable bulky rubbish (燃えない粗大ごみ).
