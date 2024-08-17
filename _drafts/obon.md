@@ -28,8 +28,8 @@ Why did I say "at least in Amami"? Well, that is because Obon is on the 15th day
 This year, Obon lasts three days. This year in Amami from the 16th to the 18th of August. During that period many shops and other businesses are closed. I was also told that swimming was absolutely forbidden on the first day. Of course for most of Japan the "first day" was the 15th, so I was not quite sure what to do. My companion was also surprised that shops and businesses here seem to have been entirely happy to open on the 15th. Things are different here.
 
 <figure>
-  <img src="{{'/assets/2024-tatsugo-calendar-bon.jpg' | relative_url }}" alt="A grave in En decorated for Tanabata">
-  <figcaption>En grave with Tanabata decorations</figcaption>
+  <img src="{{'/assets/2024-tatsugo-calendar-bon.jpg' | relative_url }}" alt="2024 Tatsugo Town calendar 18 August">
+  <figcaption>18 August in the town calendar</figcaption>
 </figure>
 Earlier in the year I spent quite a bit of time trying to work out when Obon would take place. There are various online lunar calendar calculators, but I am not sure I entirely believed them. But last week, it suddenly dawned on me that the town calendar, delivered annually to our home, is a lunar as well as solar calendar. For example, tomorrow's entry shows, under a very large number 18 the legend 7月15日 meaning the 15th day of the 7th. month. 旧盆 is the kanji for _kyuubon_ and 送り (_okuri_ literally "sending off") marks the end of Obon. 
 
