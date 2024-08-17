@@ -18,7 +18,7 @@ It is associated with a beautiful story ["The Cowherd and the Weaver Girl"](http
 Obon is an important festival in which one honours the spirits of one's ancestors. The "O" is the usual Japanese honorific, so you sometimes hear it called just Bon. It is the day in the year particularly dedicated to honouring the spirit of one's ancestors. 
 
 <figure>
-  <img src="{{'/assets/20204-tanabata-en-grave.jpg' | relative_url }}" alt="A grave in En decorated for Tanabata">
+  <img src="{{'/assets/2024-tanabata-en-grave.jpg' | relative_url }}" alt="A grave in En decorated for Tanabata">
   <figcaption>En grave with Tanabata decorations</figcaption>
 </figure>
 There are many customs associated with Obon, but the one with the most immediate effect on me is that eople travel back to their family or ancestral graves. As a result, En started filling up with people, including grandchildren of residents, who I would see playing on the beach, swimming in the sea, or running around the streets. I imagine it is like my childhood experience of going to stay with my grandparents on [Seil](https://en.wikipedia.org/wiki/Seil) in Scotland. While to a young adult I suspect En might seem rather dull, to a small child it is probably exciting and full of mystery and possibilities.
