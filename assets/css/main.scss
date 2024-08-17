@@ -514,3 +514,10 @@ figure > img {
   height:auto;
 }
 
+aside#sidebar img {
+  max-width: 180px;
+}
+
+aside#sidebar figcaption {
+  display: none;
+}
