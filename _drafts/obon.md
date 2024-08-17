@@ -15,6 +15,14 @@ Over the last week or so I started seeing lots of bightly coloured decorations m
 
 It is associated with a beautiful story ["The Cowherd and the Weaver Girl"](https://en.wikipedia.org/wiki/The_Cowherd_and_the_Weaver_Girl) where two lovers, represented by ALtair and Vega, are separated by the Milky Way and unable to meet except once a year at Tanabata. Its history seems to be more complicated than that, but for practical purposes it is bound up with the festival of Obon which, at least in Amami, follows immediately afterwards.
 
-Obon is an important festival in which one honours the spirits of one's ancestors. The "O" is the usual Japanese honorific, so you sometimes hear it called just Bon. It is the day in the year particularly dedicated to honouring the spirit of one's ancestors.
+Obon is an important festival in which one honours the spirits of one's ancestors. The "O" is the usual Japanese honorific, so you sometimes hear it called just Bon. It is the day in the year particularly dedicated to honouring the spirit of one's ancestors. 
 
-People travel back to their family or ancestral graves for the purpose. En started filling up with people, including grandchildren of residents, who I would see playing on the beach, swimming in the sea, or running around the streets. I imagine it is like my childhood experience of going to stay with my grandparents on [Seil](https://en.wikipedia.org/wiki/Seil) in Scotland. While to a young adult I suspect En might seem rather dull, to a small child it is probably exciting and full of mystery and possibilities.
+<figure>
+  <img src="{{'/assets/20204-tanabata-en-grave.jpg' | relative_url }}" alt="A grave in En decorated for Tanabata">
+  <figcaption>En grave with Tanabata decorations</figcaption>
+</figure>
+There are many customs associated with Obon, but the one with the most immediate effect on me is that eople travel back to their family or ancestral graves. As a result, En started filling up with people, including grandchildren of residents, who I would see playing on the beach, swimming in the sea, or running around the streets. I imagine it is like my childhood experience of going to stay with my grandparents on [Seil](https://en.wikipedia.org/wiki/Seil) in Scotland. While to a young adult I suspect En might seem rather dull, to a small child it is probably exciting and full of mystery and possibilities.
+
+Why did I say "at least in Amami"? Well, that is because Obon is on the 15th day of the 7th month. In modern, logical, Eastern Japan that means the 15th of July or _Shichigatsu Bon_ ("seventh month Bon"). Traditionally the 7th month was the 7th month in the lunar, not solar, calendar which is usually nearer to August than July, so many places celebrate _Hachigatsu Bon_ ("eight month Bon"). But we, on Amami, celebrate _Kyuu Bon_ ("Old Bon"). On the fifteenth day of the seventh lunar month. 
+
+Earlier in the year I spent quite a bit of time trying to work out when Obon would take place. There are various online lunar calendar calculators, but I am not sure I entirely believed them. But last week, it suddenly dawned on me that the town calendar, delivered annually to our home, is a lunar as well as solar calendar.
