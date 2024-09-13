@@ -8,12 +8,27 @@ published: true
 
 Akina is two villages over. It is larger and more spread out than En and was historically the wealthiest village on the area. Whereas in En there is only just enough space for the village with a few small tankan plantations to fit between the mountains and the sea, Akina has quite a large open area for farming. There are even wet rice fields, which is unusual for Amami as a whole.
 
+
+<figure>
+  <img src="{{'/assets/shochogama-map.jpg' | relative_url }}" alt="Map showing location of Akina and the shochogama">
+  <figcaption>Location of Akina</figcaption>
+</figure>
+
 On Monday, the 9th of September by our calendar, but the 7th of August by the lunar calendar, it was "arestsu" ("new life), a day for marking the end of Summer and the start of Autumn. I had heard that in Akina, they hold an event called "shochogama" in which they construct a traditional lean-to shelter over night and then at dawn, the men of the village knock it down. I was intrigued to see what it would be like. Friends in Akina told us where to go and, more importantly, when to arrive.
 
 We set off at 5:30 in the morning, but found the main community centre car park in Akina already filling up. Despite its size, Akina is usually pretty quiet, but the roads on the way to the site were bustling with people. My impression of shochogama is that although it is a ritual invocation of rice spirits as a form of harvest festival, people participate for fun in much the same way non-Christians enjoy Christmas. Still if felt ironic that shochogama takes place on hill just next to Akina's church.
 
+<figure>
+  <img src="{{'/assets/shochogama-distance-on-hill-46.jpg' | relative_url }}" alt="The hut from a distance.">
+  <figcaption>The hut from afar</figcaption>
+</figure>
+    
 We went up the hill to get close to the hut. I had a vague idea I would try an inexpert video of the event to share with you, despite the day starting with pouring rain. In a sense, the event had already begun because we could hear a priest and a number of other men signing from on top of the hut. I think we had the impression that the more exicting - and hence videoable - part would have started rather earlier, so there was a lot of standing around.
 
+<figure>
+  <img src="{{'/assets/shochogama-side-view-46.jpg' | relative_url }}" alt="Side view of hut.">
+  <figcaption>Waiting for the dawn</figcaption>
+</figure>
 At this point there was a call for more men to go and stand on the roof. I got the impression that a lot more weight was needed to get the building to fall down. Some men answered the call, but I was a little hesitant. I had no idea what would happen and normally you would not deliberately stand on top of a building that you knew was going to collapse. In the end, curiousity overcame my hesitation. I gave up the idea of making a video and headed for the roof.
 
 Besides, if I am going to make this place my home, I should try to fit in, shouldn't I?
@@ -32,6 +47,10 @@ The grandfather beckoned several of us to the edge of the roof to look down at o
 
 Sure enough we did it. On the fifth round of "yora mera" the pillars gave way and the entire roof collapsed to the ground. This was not nearly as alarming or dramatic as I had expected. Everyone was very pleased with themselves. Then, to my surprise, the drummers began to drum and it became obvious that we were all going to be dancing. Ritual dancing is another story entirely, but I had by this time enough experience of what to do that I could join in. Everyone was having enormous fun dancing around increasingly frantically, until the drummers eventually called a halt. We then yelled "banzai" three times and started to collect ourselves together for the journey back home. 
 
+<figure>
+  <img src="{{'/assets/shochogama-looking-down-46.jpg' | relative_url }}" alt="Looking down from the hut to AKina fields.">
+  <figcaption>Looking down from above.</figcaption>
+</figure>
 At the bottom of the hill was a great crowd of people. I had recognised one person from En, but En had already had its own arasetsu celebration the previous day, which is a story to tell. Each village does seem to do its own thing, though En seems a bit more singular than the others along the coast. Going through the crowd, roughly half a dozen Akina people greeted me by name. I found it really encouraging that I have begun to get to know people two villages over as well as people in En.
 
 Then home for some sleep. Autumn had been properly welcomed.
