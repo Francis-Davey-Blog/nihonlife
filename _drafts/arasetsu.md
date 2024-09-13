@@ -59,4 +59,6 @@ Sure enough we did it. On the fifth round of "yora mera" the pillars gave way an
 
 At the bottom of the hill was a great crowd of people. I had recognised one person from En, but En had already had its own arasetsu celebration the previous day, which is a story to tell. Each village does seem to do its own thing, though En seems a bit more singular than the others along the coast. Going through the crowd, roughly half a dozen Akina people greeted me by name. I found it really encouraging that I have begun to get to know people two villages over as well as people in En.
 
+<p style="clear:both" />
+
 Then home for some sleep. Autumn had been properly welcomed.
