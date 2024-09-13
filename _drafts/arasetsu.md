@@ -1,6 +1,6 @@
 ---
 title: Arasetsu
-subtitle: Welcoming in Autumn with Shochogama
+subtitle: Welcoming Autumn with Shochogama
 date: 12 September 2024
 layout: post
 published: true
@@ -41,6 +41,13 @@ Next to me was, I deduced, a grandfather, father and child. The child was being 
 
 After quite a long wait, in which the priest and others continued to sing and occasionally beat a chijin the traditionoal drum), the priest came down off the roof with a tray on which were various items including some salt. A man holding standing at the very top of the roof holding a chijin turned to us and explained what it was we were supposed to do, gesticulating with his drumstick to make his meaning clearer. As far as I could tell, at some point we would be given the signal and then we would all make strong rocking movements to the right to shake the roof, all the while yelling "yora mera". I think this means something like "knock it down".
 
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4gGabg7O6mg?si=lIwvrp-Ox3J7Q9GV&amp;start=53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figcaption>Collapsing the roof.</figcaption>
+</figure>
+
+
+
 What I hadn't appreciated was that we would have to do the rocking more than once. At the first signal everyone frantically shook the roof, but we were stopped after only a handful of shakes. The singing and drumming resumed for some minutes before the second round of "yora mera" after which the roof seemed as intact as ever. After a third unsuccesful round I was glad that I had not tried to video the event and asked the grandfather how long it usually took.
 
 The grandfather beckoned several of us to the edge of the roof to look down at one of the huge pillars holding it up. You could see the ground around it rather churned up. Our efforts had obviously worked it a bit loose. He explained that it usually took only three attempts, but this time it was taking longer.
@@ -52,5 +59,7 @@ Sure enough we did it. On the fifth round of "yora mera" the pillars gave way an
   <figcaption>Looking down from above.</figcaption>
 </figure>
 At the bottom of the hill was a great crowd of people. I had recognised one person from En, but En had already had its own arasetsu celebration the previous day, which is a story to tell. Each village does seem to do its own thing, though En seems a bit more singular than the others along the coast. Going through the crowd, roughly half a dozen Akina people greeted me by name. I found it really encouraging that I have begun to get to know people two villages over as well as people in En.
+
+\ 
 
 Then home for some sleep. Autumn had been properly welcomed.
