@@ -41,7 +41,7 @@ Next to me was, I deduced, a grandfather, father and child. The child was being 
 
 After quite a long wait, in which the priest and others continued to sing and occasionally beat a chijin the traditionoal drum), the priest came down off the roof with a tray on which were various items including some salt. A man holding standing at the very top of the roof holding a chijin turned to us and explained what it was we were supposed to do, gesticulating with his drumstick to make his meaning clearer. As far as I could tell, at some point we would be given the signal and then we would all make strong rocking movements to the right to shake the roof, all the while yelling "yora mera". I think this means something like "knock it down".
 
-<figure>
+<figure class="rightframe">
 <iframe src="https://www.youtube.com/embed/4gGabg7O6mg?si=lIwvrp-Ox3J7Q9GV&amp;start=53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <figcaption>Collapsing the roof.</figcaption>
 </figure>
