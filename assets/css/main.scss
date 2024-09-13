@@ -503,6 +503,13 @@ aside#sidebar h4:before {
 
 /* Francis's own modifications */
 
+figure.rightframe {
+  float:right;
+  width:50%;
+  max-width:400px;
+  margin-right:30px;
+}
+
 figure {
   float:left;
   width:50%;
@@ -512,6 +519,10 @@ figure {
 
 figure > img {
   height:auto;
+}
+
+figure figcaption {
+  text-align: center;
 }
 
 aside#sidebar img {
