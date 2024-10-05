@@ -13,4 +13,6 @@ These gifts are known as "Omiyage" (お土産). I have seen it suggested that th
 
 But another cunning feature of Tokugawa rule meant that, despite all these controls, samurai were engaged in a considerable amount of travel. Most domain rulers (known as "daimyo") had to alternate between spending the year in Edo (now Tokyo) and their home domain. Since someone as important as a daimyo would expect to travel with a considerable number of retainers that might number in the thousands, that resulted in lots of samurai moving backward and forward over the main roads of Japan.
 
+From the Tokugawa point of view this system, known as sankin-koutai ("alternate attendance") had numerous benefits. Every daimyo had to maintain appropriately sumptious accommodation in Edo, along with staff, even while not in attendance. Whilst in Edo, the daimyo and their samurai would need to be entertained with food, drink, theatre, music and other things I am sure you can imagine. All that money spent in Edo, turned what had been a fairly modest seaside town into one of the largest cities
+
 I have just returned from an interesting week driving around Kyushu and visiting hot springs. That is a story for another time. 
