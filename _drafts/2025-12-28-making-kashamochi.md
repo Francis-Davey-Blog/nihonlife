@@ -20,4 +20,10 @@ The next step is wrapping the result up in _kasha_ leaves. When I asked what kas
 
 We washed neatly cut segments of the kasha leaves and then after wiping them dry, laid them out ready for the mochi. Then we hand rolled small balls of the mochi about 5cm in diameter which we placed in the centre of each leaf segment. After that we rolled them up gently, without squashing the mochi down and laid them in a steamer.
 
+<figure>
+  <img src="{{'assets/2025-rolling-kashamochi.JPEG' | relative_url }}" alt="Rolling kashamochi in kashamochi leaves on a steel work surface.">
+  <figcaption>Rolling the kashamochi</figcaption>
+</figure>
+
+The teacher told us they should be steamed for "23 minutes". If you have ever eaten kashamochi or anything else made from mugwort, you woudl recognise the smell given off by the steamer instantly. We took a break while the steaming took place and then the teacher distributed some for us to try. You eat them by peeling back the kasha leaves. Although I had often eaten them before, I had never had them hot and fresh, which in my view is doubly delightful.
 
