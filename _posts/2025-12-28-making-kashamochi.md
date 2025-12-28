@@ -17,7 +17,7 @@ The recipe uses equal quantities of Japanese mugwort,  _joushinko_ (上新粉), 
 The next step is wrapping the result up in _kasha_ leaves. When I asked what kasha was, everyone thought it was an island word for something else. I did some digging around and it is known in  in standard Japanese as 熊竹蘭 (kumatakeran) - combining kanji meaning "beaar", "bamboo" and "orchid" and in English as "shell ginger", the latter term leaving me none the wiser, though it is a relative of the ginger plant. When I asked where it grew I was told _acchi kocchi_ which means "there and here". Our teacher then emphasized the importance of finding plants with large enough leaves. Later research suggest there is another very similar plant known on the island as _sa'nen_ or in mainland Japanese as _gettou_ (月桃), which does indeed have smaller leaves and is equally common. For the botanically minded _kasha_ is _Alpinia × formosana_ and _sa'nen_ is _Alpinia zerumbet_.
 
 <figure>
-  <img src="{{'[assets/2025-rolling-kashamochi.JPEG](https://upload.wikimedia.org/wikipedia/commons/3/3c/Alpinia_formosana_-_Marie_Selby_Botanical_Gardens_-_Sarasota%2C_Florida_-_DSC01206.jpg)' }}" alt="Image of a kasha plant">
+  <img src="{{'https://upload.wikimedia.org/wikipedia/commons/3/3c/Alpinia_formosana_-_Marie_Selby_Botanical_Gardens_-_Sarasota%2C_Florida_-_DSC01206.jpg)' }}" alt="Image of a kasha plant">
   <figcaption>A kasha plant</figcaption>
 </figure>
 
