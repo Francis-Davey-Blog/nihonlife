@@ -1,9 +1,9 @@
 ---
 title: Making Kashamochi
-subtitle: 
-date: 28 December 205
+subtitle: An island delicacy
+date: 28 December 2025
 layout: post
-published: false
+published: true
 ---
 
 In the UK I was used to spending Christmas Day with my family. Almost all businesses are closed and the focus is on activities that can be done within the home and family. By contrast, in Japan Christmas is not a public holiday. Outside activities continue to be available. Christmas 2025 found me attending a class on how to make _kashamochi_.
