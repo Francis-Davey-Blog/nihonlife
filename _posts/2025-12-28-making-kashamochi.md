@@ -10,7 +10,7 @@ image: /assets/2025-kashamochi-awaiting-roll.JPEG
 In the UK I was used to spending Christmas Day with my family. Almost all businesses are closed and the focus is on activities that can be done within the home and family. By contrast, in Japan Christmas is not a public holiday. Outside activities continue to be available. Christmas 2025 found me attending a class on how to make _kashamochi_.
 
 <figure>
-  <img src="{{'https://upload.wikimedia.org/wikipedia/commons/8/82/Artemisia_princeps_2.JPG'}}" width="50%" alt="Japanese Mugwort">
+  <img src="{{'https://upload.wikimedia.org/wikipedia/commons/8/82/Artemisia_princeps_2.JPG'}}" alt="Japanese Mugwort">
   <figcaption>Japnese Mugwort</figcaption>
 </figure>
   
