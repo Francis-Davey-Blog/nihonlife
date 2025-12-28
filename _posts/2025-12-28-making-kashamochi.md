@@ -4,6 +4,7 @@ subtitle: An island delicacy
 date: 28 December 2025
 layout: post
 published: true
+image: /assets/2025-kashamochi-awaiting-roll.JPEG
 ---
 
 In the UK I was used to spending Christmas Day with my family. Almost all businesses are closed and the focus is on activities that can be done within the home and family. By contrast, in Japan Christmas is not a public holiday. Outside activities continue to be available. Christmas 2025 found me attending a class on how to make _kashamochi_.
@@ -29,12 +30,6 @@ The recipe uses equal quantities of Japanese mugwort,  _joushinko_ (上新粉), 
 <p style="clear:both" />
   
 The next step is wrapping the result up in _kasha_ leaves. When I asked what kasha was, everyone thought it was an island word for something else. I did some digging around and it is known in  in standard Japanese as 熊竹蘭 (kumatakeran) - combining kanji meaning "beaar", "bamboo" and "orchid" and in English as "shell ginger", the latter term leaving me none the wiser, though it is a relative of the ginger plant. When I asked where it grew I was told _acchi kocchi_ which means "there and here". Our teacher then emphasized the importance of finding plants with large enough leaves. Later research suggest there is another very similar plant known on the island as _sa'nen_ or in mainland Japanese as _gettou_ (月桃), which does indeed have smaller leaves and is equally common. For the botanically minded _kasha_ is _Alpinia × formosana_ and _sa'nen_ is _Alpinia zerumbet_.
-
-
-<figure>
-  <img src="{{'assets/2025-kashamochi-awaiting-roll.JPEG' | relative_url }}" alt="Laying out the kashamochi on steel work surface ready for rolling.">
-  <figcaption>Reaady to roll</figcaption>
-</figure>
 
 We washed neatly cut segments of the kasha leaves and then after wiping them dry, laid them out ready for the mochi. Then we hand rolled small balls of the mochi about 5cm in diameter which we placed in the centre of each leaf segment. After that we rolled them up gently, without squashing the mochi down and laid them in a steamer.
 
