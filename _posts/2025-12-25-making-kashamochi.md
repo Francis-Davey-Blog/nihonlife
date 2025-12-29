@@ -7,15 +7,15 @@ published: true
 image: /assets/2025-kashamochi-awaiting-roll.JPEG
 ---
 
-In the UK I was used to spending Christmas Day with my family. Almost all businesses are closed and the focus is on activities that can be done within the home and family. By contrast, in Japan Christmas is not a public holiday. Outside activities continue to be available. Christmas 2025 found me attending a class on how to make _kashamochi_.
+In the UK I was used to spending Christmas Day with my family. Almost all businesses are closed and the focus is on activities that can be done within the home and family. By contrast, in Japan Christmas is not a public holiday. Outside activities continue to be available. And so, Christmas 2025 found me attending a class on how to make _kashamochi_.
 
 <figure>
-  <img src="{{'https://upload.wikimedia.org/wikipedia/commons/8/82/Artemisia_princeps_2.JPG'}}" alt="Japanese Mugwort">
-  <figcaption>Japnese Mugwort</figcaption>
+  <img src="{{'assets/en-mugwort-wide.jpg'| relative_url }}" alt="Japanese Mugwort growing by the roadside in En">
+  <figcaption>Mugwort growing roadside in En</figcaption>
 </figure>
   
 
-Kashamochi are a green and chewy sweet made from Japanese mugwort and fine rice flour. Their texture is a bit firmer than Turkish Delight. Theytraditionally come wrapped in green leaves and are considered an island delicacy. They are on sale in many tourist oriented shops, but I have never had to buy them. They are one of the items that are regularly handed around as gifts or offered to visitors and are invariably hand made.
+Kashamochi are a green and chewy sweet made from Japanese mugwort and fine rice flour, usualy presented wrapped in green leaves. They are usually handmade and wrapped in green leaves. They are chewy with a texture is a bit firmer than Turkish Delight, but they don't feel like they will stick in your throat in the way that I find the more usual Japanese moch which is made in a similar from rice flour but without interesting additions like mugwort. Kashamochi invariably hand made and are considered an island delicacy. Although, they are on sale in many tourist oriented shops, I have never had to buy them since they are one of the items that are regularly handed around as gifts or offered to visitors.
 
 Mugwort leaves grow all around the island. I am told that most people who have plots of land leave space for it to grow. For the class, the teacher had already pre-soaked the mugwort leaves. I think she said in soda water, for the effect of the acidity. The leaves were then put in a blender and after draining on a seive, the resulting pulp is damp and gloopy. Someone in the class wondered what would have been done traditionally - blenders not being a traditional tool on Amami - the answer is that the leaves would be pounded with a wooden stick until the pulp was formed.
 
@@ -23,7 +23,7 @@ Mugwort leaves grow all around the island. I am told that most people who have p
 The recipe uses equal quantities of Japanese mugwort,  _joushinko_ (上新粉), which is a fine flour made from non-glutinous rice and _kokutou_ (黒糖), locally grown brown sugar. It is quite common to add sweet potato or other ingredients, but our teacher kept things simple for us with just the core three ingredients. First the sugar is gently mixed in by hand, followed by the rice flour. The sensation of hand mixing is hard to describe. You can feel the lumps of the sugar and crush them as they slowly dissolve into the mugwort then the rice absorbs the liquid and the mixture becomes firmer and firmer. 
 
 <figure>
-  <img src="{{'https://upload.wikimedia.org/wikipedia/commons/3/3c/Alpinia_formosana_-_Marie_Selby_Botanical_Gardens_-_Sarasota%2C_Florida_-_DSC01206.jpg' }}" alt="Image of a kasha plant">
+  <img src="{{'https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%83%E3%83%88%E3%82%A6#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Alpinia_zerumbet2CaryCass.jpg' }}" alt="Image of a kasha plant">
   <figcaption>A kasha plant</figcaption>
 </figure>
 
