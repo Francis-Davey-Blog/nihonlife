@@ -23,7 +23,7 @@ Mugwort leaves grow all around the island. I am told that most people who have p
 The recipe uses equal quantities of Japanese mugwort,  _joushinko_ (上新粉), which is a fine flour made from non-glutinous rice and _kokutou_ (黒糖), locally grown brown sugar. It is quite common to add sweet potato or other ingredients, but our teacher kept things simple for us with just the core three ingredients. First the sugar is gently mixed in by hand, followed by the rice flour. The sensation of hand mixing is hard to describe. You can feel the lumps of the sugar and crush them as they slowly dissolve into the mugwort then the rice absorbs the liquid and the mixture becomes firmer and firmer. 
 
 <figure>
-  <img src="{{'https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%83%E3%83%88%E3%82%A6#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Alpinia_zerumbet2CaryCass.jpg' }}" alt="Image of a kasha plant">
+  <img src="https://www.fp-k.org/flowerpark_cms/wp-content/uploads/2021/11/MG_2222.jpg" alt="Image of a kasha plant">
   <figcaption>A kasha plant</figcaption>
 </figure>
 
