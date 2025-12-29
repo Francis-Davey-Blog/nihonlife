@@ -9,12 +9,15 @@ image: /assets/2025-kashamochi-awaiting-roll.JPEG
 
 In the UK I was used to spending Christmas Day with my family. Almost all businesses are closed and the focus is on activities that can be done within the home and family. By contrast, in Japan Christmas is not a public holiday. Outside activities continue to be available. And so, Christmas 2025 found me attending a class on how to make _kashamochi_.
 
+<p style="clear:both" />
+
 <figure>
   <img src="{{'assets/en-mugwort-wide.jpg'| relative_url }}" alt="Japanese Mugwort growing by the roadside in En">
   <figcaption>Mugwort growing roadside in En</figcaption>
 </figure>
   
-
+<p style="clear:both" />
+  
 Kashamochi are a green and chewy sweet made from Japanese mugwort and fine rice flour, usually presented wrapped in green leaves. . Their texture is a bit like Turkish Delight, but perhaps somewhat firmer.  They don't feel like they will stick in your throat in the way that I find the more usual Japanese mochi which is also made in a similar from rice flour but without interesting additions like mugwort. Kashamochi invariably hand made and are considered an island delicacy. Although, they are on sale in many tourist oriented shops, I have never had to buy them since they are one of the items that are regularly handed around as gifts or offered to visitors.
 
 Mugwort grows all around the island, although it is frequently overwhelmed by other plants. I am told that people often leave space in their gardens or fields for it to grow, so that it is easily availble when needed. 
